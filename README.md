@@ -22,8 +22,8 @@ I have had a chance to: <br>
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-red?style=for-the-badge&logoColor=white&logo=postgresql)
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-brightgreen?style=for-the-badge&logoColor=white&logo=postgresql)<br>
 ![RSPEC](https://img.shields.io/badge/RSPEC-orange?style=for-the-badge&logoColor=white&logo=postgresql)
-![JEST](https://img.shields.io/badge/JEST-yellow?style=for-the-badge&logoColor=white&logo=postgresql)<br>
-![CYPRESS](https://img.shields.io/badge/CYPRESS-blue?style=for-the-badge&logoColor=white&logo=postgresql)
+![JEST](https://img.shields.io/badge/JEST-yellow?style=for-the-badge&logoColor=white&logo=postgresql)
+![CYPRESS](https://img.shields.io/badge/CYPRESS-blue?style=for-the-badge&logoColor=white&logo=postgresql)<br>
 ![PYTHON](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logoColor=white&logo=postgresql)
 ![VBA](https://img.shields.io/badge/VISUALBASIC-yellow?style=for-the-badge&logoColor=white&logo=postgresql)
 
