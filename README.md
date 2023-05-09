@@ -11,19 +11,7 @@ I have had a chance to: <br>
 # Technologies:
 
 <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
-<img src="file:///C:/Users/Paul/Downloads/css3(1).svg" alt="CSS" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
-
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logoColor=white&logo=html5" alt="HTML" width="30" height="30"/>
 
 # 🌐 Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-lazar-03469693/) 
