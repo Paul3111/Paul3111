@@ -19,13 +19,13 @@ I have had a chance to: <br>
 ![NODE](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logoColor=white&logo=nodedotjs)
 ![RUBY](https://img.shields.io/badge/RUBY-red?style=for-the-badge&logoColor=white&logo=ruby)
 ![SINATRA](https://img.shields.io/badge/SINATRA-grey?style=for-the-badge&logoColor=white&logo=rubysinatra)
-![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logoColor=white&logo=postgresql)
-![POSTMAN](https://img.shields.io/badge/POSTMAN-blue?style=for-the-badge&logoColor=white&logo=postgresql)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-red?style=for-the-badge&logoColor=white&logo=postgresql)
+![POSTMAN](https://img.shields.io/badge/POSTMAN-brightgreen?style=for-the-badge&logoColor=white&logo=postgresql)
 ![CYPRESS](https://img.shields.io/badge/CYPRESS-blue?style=for-the-badge&logoColor=white&logo=postgresql)
-![JEST](https://img.shields.io/badge/JEST-blue?style=for-the-badge&logoColor=white&logo=postgresql)
-![RSPEC](https://img.shields.io/badge/RSPEC-blue?style=for-the-badge&logoColor=white&logo=postgresql)
+![JEST](https://img.shields.io/badge/JEST-yellow?style=for-the-badge&logoColor=white&logo=postgresql)
+![RSPEC](https://img.shields.io/badge/RSPEC-orange?style=for-the-badge&logoColor=white&logo=postgresql)
 ![PYTHON](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logoColor=white&logo=postgresql)
-![VBA](https://img.shields.io/badge/VISUALBASIC-blue?style=for-the-badge&logoColor=white&logo=postgresql)
+![VBA](https://img.shields.io/badge/VISUALBASIC-yellow?style=for-the-badge&logoColor=white&logo=postgresql)
 
 # 🌐 Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-lazar-03469693/) 
