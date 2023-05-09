@@ -11,7 +11,7 @@ I have had a chance to: <br>
 # Technologies:
 
 <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
-<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logoColor=white&logo=html5" alt="HTML" width="30" height="30"/>
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logoColor=white&logo=html5" alt="HTML" width="50" height="50"/>
 
 # 🌐 Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-lazar-03469693/) 
