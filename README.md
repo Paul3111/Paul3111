@@ -10,10 +10,17 @@ I have had a chance to: <br>
 
 # Technologies:
 
-[Programming Language Name](https://www.linkedin.com/in/your-linkedin-profile/)
-
 <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
-https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
+<img src="file:///C:/Users/Paul/Downloads/css3(1).svg" alt="CSS" width="30" height="30"/>
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
 
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
 
