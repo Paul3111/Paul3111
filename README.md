@@ -16,14 +16,14 @@ I have had a chance to: <br>
 ![REACT](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logoColor=white&logo=react)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-orange?style=for-the-badge&logoColor=white&logo=express)
 ![MONGODB](https://img.shields.io/badge/MONGODB-brightgreen?style=for-the-badge&logoColor=white&logo=mongodb)
-![NODE](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logoColor=white&logo=nodedotjs)
+![NODE](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logoColor=white&logo=nodedotjs)<br>
 ![RUBY](https://img.shields.io/badge/RUBY-red?style=for-the-badge&logoColor=white&logo=ruby)
 ![SINATRA](https://img.shields.io/badge/SINATRA-grey?style=for-the-badge&logoColor=white&logo=rubysinatra)
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-red?style=for-the-badge&logoColor=white&logo=postgresql)
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-brightgreen?style=for-the-badge&logoColor=white&logo=postgresql)
 ![CYPRESS](https://img.shields.io/badge/CYPRESS-blue?style=for-the-badge&logoColor=white&logo=postgresql)
 ![JEST](https://img.shields.io/badge/JEST-yellow?style=for-the-badge&logoColor=white&logo=postgresql)
-![RSPEC](https://img.shields.io/badge/RSPEC-orange?style=for-the-badge&logoColor=white&logo=postgresql)
+![RSPEC](https://img.shields.io/badge/RSPEC-orange?style=for-the-badge&logoColor=white&logo=postgresql)<br>
 ![PYTHON](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logoColor=white&logo=postgresql)
 ![VBA](https://img.shields.io/badge/VISUALBASIC-yellow?style=for-the-badge&logoColor=white&logo=postgresql)
 
