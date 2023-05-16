@@ -36,7 +36,7 @@ I have had a chance to: <br>
 
 <div align="left">
 
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul3111&hide=stars&show_icons=true&theme=slateorange)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul3111&size_weight=0&count_weight=1&theme=slateorange&layout=compact)](https://github.com/Paul3111/github-readme-stats)
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul3111&hide=stars&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul3111&size_weight=0&count_weight=1&theme=gruvbox&layout=compact)](https://github.com/Paul3111/github-readme-stats)
 
 </div>
