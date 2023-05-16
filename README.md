@@ -32,11 +32,11 @@ I have had a chance to: <br>
 
 <br/>
 
-<h3 align="center">My Github Stats</h3>
+<h3 align="Left">My Github Stats</h3>
 
-<div align="center">
+<div align="left">
 
-![Chang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul3111&hide=stars&show_icons=true&theme=slateorange)
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul3111&hide=stars&show_icons=true&theme=slateorange)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul3111&size_weight=0.5&count_weight=0.5&theme=slateorange&layout=compact)](https://github.com/Paul3111/github-readme-stats)
 
 </div>
