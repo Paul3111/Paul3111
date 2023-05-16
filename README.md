@@ -29,3 +29,14 @@ I have had a chance to: <br>
 
 # 🌐 Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-lazar-03469693/) 
+
+<br/>
+
+<h3 align="center">My Github Stats</h3>
+
+<div align="center">
+
+![Chang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul3111&hide=stars&show_icons=true&theme=slateorange)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul3111&size_weight=0.5&count_weight=0.5&theme=slateorange&layout=compact)](https://github.com/Paul3111/github-readme-stats)
+
+</div>
