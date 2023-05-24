@@ -20,12 +20,12 @@ I have had a chance to: <br>
 ![RUBY](https://img.shields.io/badge/RUBY-red?style=for-the-badge&logoColor=white&logo=ruby)
 ![SINATRA](https://img.shields.io/badge/SINATRA-grey?style=for-the-badge&logoColor=white&logo=rubysinatra)
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-red?style=for-the-badge&logoColor=white&logo=postgresql)
-![POSTMAN](https://img.shields.io/badge/POSTMAN-brightgreen?style=for-the-badge&logoColor=white&logo=postgresql)<br>
-![RSPEC](https://img.shields.io/badge/RSPEC-orange?style=for-the-badge&logoColor=white&logo=postgresql)
-![JEST](https://img.shields.io/badge/JEST-yellow?style=for-the-badge&logoColor=white&logo=postgresql)
-![CYPRESS](https://img.shields.io/badge/CYPRESS-blue?style=for-the-badge&logoColor=white&logo=postgresql)<br>
-![PYTHON](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logoColor=white&logo=postgresql)
-![VBA](https://img.shields.io/badge/VISUALBASIC-yellow?style=for-the-badge&logoColor=white&logo=postgresql)
+![POSTMAN](https://img.shields.io/badge/POSTMAN-brightgreen?style=for-the-badge&logoColor=white&logo=postman)<br>
+![RSPEC](https://img.shields.io/badge/RSPEC-orange?style=for-the-badge&logoColor=white&logo=rspec)
+![JEST](https://img.shields.io/badge/JEST-yellow?style=for-the-badge&logoColor=white&logo=jest)
+![CYPRESS](https://img.shields.io/badge/CYPRESS-blue?style=for-the-badge&logoColor=white&logo=cypress)<br>
+![PYTHON](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logoColor=white&logo=python)
+![VBA](https://img.shields.io/badge/VISUALBASIC-yellow?style=for-the-badge&logoColor=white&logo=visualbasic)
 
 # 🌐 Profiles
 
