@@ -28,7 +28,9 @@ I have had a chance to: <br>
 ![VBA](https://img.shields.io/badge/VISUALBASIC-yellow?style=for-the-badge&logoColor=white&logo=postgresql)
 
 # 🌐 Profiles
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-lazar-03469693/) 
+[![Codewars](https://img.shields.io/badge/codewars-%230077B5.svg?logo=codewars&logoColor=white)](https://www.codewars.com/users/Paul3111) 
 
 <br/>
 
