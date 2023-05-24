@@ -27,7 +27,7 @@ I have had a chance to: <br>
 ![PYTHON](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logoColor=white&logo=postgresql)
 ![VBA](https://img.shields.io/badge/VISUALBASIC-yellow?style=for-the-badge&logoColor=white&logo=postgresql)
 
-# 🌐 Linkedin
+# 🌐 Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-lazar-03469693/) 
 
 <br/>
