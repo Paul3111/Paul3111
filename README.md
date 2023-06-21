@@ -25,7 +25,7 @@ I have had a chance to: <br>
 ![JEST](https://img.shields.io/badge/JEST-yellow?style=for-the-badge&logoColor=white&logo=jest)
 ![CYPRESS](https://img.shields.io/badge/CYPRESS-blue?style=for-the-badge&logoColor=white&logo=cypress)<br>
 ![PYTHON](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logoColor=white&logo=python)
-![VBA](https://img.shields.io/badge/VISUALBASIC-yellow?style=for-the-badge&logoColor=white&logo=visual-basic-for-applications)
+![VBA](https://img.shields.io/badge/VBA-yellow?style=for-the-badge&logoColor=white&logo=visual-basic-for-applications)
 
 # 🌐 Profiles
 
