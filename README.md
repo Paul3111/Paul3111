@@ -34,7 +34,7 @@ I have had a chance to: <br>
 
 <br/>
 
-<h3 align="Left">My Github Stats</h3>
+<h3 align="Left">My Github Stats (If not visible, please refresh page)</h3>
 
 <div align="left">
 
