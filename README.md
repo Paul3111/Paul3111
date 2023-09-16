@@ -1,4 +1,7 @@
 # About Me:
+
+https://paul-lazar.netlify.app/
+
 Makers Academy graduate - February 2023 cohort<br><br>
 I have had a chance to: <br>
 
