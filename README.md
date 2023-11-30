@@ -8,7 +8,7 @@ I have had a chance to: <br>
 - work with Git/Github and learn the GitHub workflow
 - follow the AGILE principles
 - receive feedback from experienced coaches
-- review other people's code
+- review code written by others
 - refactor our own code
 
 # Technologies:
