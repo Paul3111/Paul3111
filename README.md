@@ -3,7 +3,7 @@
 https://paul-lazar.netlify.app/
 
 Makers Academy graduate - February 2023 cohort<br><br>
-I have had a chance to: <br>
+I have had the chance to: <br>
 
 - work with Git/Github and learn the GitHub workflow
 - follow the AGILE principles
