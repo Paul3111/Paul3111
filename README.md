@@ -14,13 +14,14 @@ I have had the chance to: <br>
 # Technologies:
 
 Currently working with:
+
 ![PHP](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logoColor=white&logo=php)
 ![javascript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logoColor=white&logo=javascript)
 ![MYSQL](https://img.shields.io/badge/POSTGRESQL-red?style=for-the-badge&logoColor=white&logo=mysql)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logoColor=white&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logoColor=white&logo=css3)
 
-During the two bootcamps:
+During the two bootcamps that I completed:
 
 ![REACT](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logoColor=white&logo=react)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-orange?style=for-the-badge&logoColor=white&logo=express)
