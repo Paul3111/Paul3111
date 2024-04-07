@@ -15,9 +15,9 @@ I have had the chance to: <br>
 
 Currently working with:
 
-![PHP](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logoColor=white&logo=php)
+![PHP](https://img.shields.io/badge/PHP-yellow?style=for-the-badge&logoColor=white&logo=php)
 ![javascript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logoColor=white&logo=javascript)
-![MYSQL](https://img.shields.io/badge/POSTGRESQL-red?style=for-the-badge&logoColor=white&logo=mysql)
+![MYSQL](https://img.shields.io/badge/MYSQL-red?style=for-the-badge&logoColor=white&logo=mysql)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logoColor=white&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logoColor=white&logo=css3)
 
